@@ -95,7 +95,7 @@ The algorithm maintains a growing sorted portion of the list. For each element, 
 1. Efficient for small datasets.
 2. Performs well on datasets that are already partially sorted.
 3. Simple to implement.
-*Disadvantages:
+* Disadvantages:
 1. Inefficient for large datasets.
 ### Code:
 #### Algorithm:
