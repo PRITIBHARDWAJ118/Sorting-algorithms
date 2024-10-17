@@ -8,6 +8,7 @@ To study and implement Sorting Algorithm
 Selection sort is a simple comparison-based sorting algorithm where the list is divided into two parts: a sorted part and an unsorted part. The smallest (or largest) element from the unsorted part is selected and swapped with the first unsorted element, growing the sorted part one element at a time.
 * Working:
 In each iteration, the algorithm searches for the smallest element in the unsorted portion of the list and swaps it with the element at the current position.
+
 *Advantages:
 -Simple to implement.
 -Performs well on small datasets.
