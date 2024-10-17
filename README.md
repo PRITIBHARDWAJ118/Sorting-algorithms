@@ -9,10 +9,10 @@ Selection sort is a simple comparison-based sorting algorithm where the list is 
 * Working:
 In each iteration, the algorithm searches for the smallest element in the unsorted portion of the list and swaps it with the element at the current position.
 
-*Advantages:
+* Advantages:
 -Simple to implement.
 -Performs well on small datasets.
-*Disadvantages:
+* Disadvantages:
 -Inefficient for large datasets compared to more advanced algorithms like quicksort or mergesort.
 -Does not adapt to already sorted lists.
 
